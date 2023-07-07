@@ -8,7 +8,6 @@ const read = ({file, sheet}) =>{
     return rows
     
 }
-
 module.exports = {
     read,
 }
