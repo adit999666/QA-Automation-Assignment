@@ -7,7 +7,6 @@
     "test": "npm run test-home",
     "test-home": "cypress run --project ./Home"
   },
-  
   "author": "",
   "license": "ISC",
   "dependencies": {
