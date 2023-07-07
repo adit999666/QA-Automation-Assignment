@@ -9,7 +9,7 @@ describe("canvas", () => {
   
       // Step 3: Draw a horizontal line
       // cy.get('#imageTemp').trigger("mousedown", {button: 0, clientX: 100, clientY: 100 }, {force: true})
-      //   .trigger("mousemove", {button: 0, clientX: 300, clientY: 100}, {force: true})
+      //   .trigger("mousemove", {button: 0, clientX: 300, clientY: 100}, {force: true});
       //   .trigger("mouseup", { force: true })
       // Step 3: Draw a horizontal line
       cy.get('#imageTemp').click(100, 100)
